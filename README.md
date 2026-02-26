@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://github.com/vaishnavi-25bcac69/portfolio_website-main)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
